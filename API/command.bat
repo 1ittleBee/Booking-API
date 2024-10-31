@@ -1,0 +1,1 @@
+newman run FirstAPIProject.postman_collection.json -e Batch28.postman_environment.json -r cli,htmlextra
